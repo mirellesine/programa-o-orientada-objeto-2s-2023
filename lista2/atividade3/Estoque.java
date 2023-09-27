@@ -1,4 +1,4 @@
-package lista1.atividade3;
+package lista2.atividade3;
 
 import java.util.ArrayList;
 import java.util.List;
