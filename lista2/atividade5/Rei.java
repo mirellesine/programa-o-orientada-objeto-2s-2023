@@ -1,4 +1,4 @@
-package lista2.atividade4;
+package lista2.atividade5;
 
 //rei herda de personagem
 public class Rei extends Personagem {
